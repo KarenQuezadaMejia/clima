@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "examen-fluxSolar"
+    }
+  },
+  "defaultProject": "examen-fluxSolar",
+  "cli": {
+    "analytics": "bd8eb6a6-8b9e-4a75-a9d9-fb8e551a5e83"
+  }
 }
